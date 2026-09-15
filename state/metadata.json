@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "policy": {
+    "deterministic": true,
+    "raw_source_payloads_included": false,
+    "runner_paths_included": false
+  },
+  "record_counts": {
+    "active_races": 867,
+    "aliases": 2970,
+    "discrepancies": 156,
+    "manual_overrides": 0,
+    "race_changes": 99,
+    "races": 867,
+    "reconciliation_issues": 0,
+    "source_links": 1187,
+    "unresolved_source_records": 35
+  },
+  "schema_version": 5,
+  "state_files": [
+    "canonical_races.json",
+    "source_links.json",
+    "aliases.json",
+    "manual_overrides.json",
+    "reconciliation.json",
+    "history.json",
+    "metadata.json"
+  ]
+}

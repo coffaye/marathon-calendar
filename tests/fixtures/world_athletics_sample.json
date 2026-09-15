@@ -1,0 +1,24 @@
+{
+  "source_url": "https://worldathletics.org/competitions/world-athletics-label-road-races",
+  "observed_at": "2026-09-15",
+  "format": "server-rendered HTML table",
+  "fields_observed": ["date", "meeting", "venue", "country"],
+  "events": [
+    {
+      "date": "2026-01-11",
+      "meeting": "C&D Xiamen Marathon",
+      "venue": "Xiamen",
+      "country": "CHN",
+      "external_id": null
+    },
+    {
+      "date": "2026-12-06",
+      "meeting": "Shanghai Marathon",
+      "venue": "Shanghai",
+      "country": "CHN",
+      "external_id": null
+    }
+  ],
+  "note": "Minimal schema fixture; full HTML response is not committed."
+}
+

@@ -1,0 +1,35 @@
+{
+  "list_response": {
+    "success": true,
+    "data": {
+      "results": [
+        {
+          "raceId": 1000452016,
+          "raceName": "2026南宁马拉松",
+          "raceGrade": "A",
+          "raceTime": "2026-12-20",
+          "raceAddress": "广西壮族自治区/南宁市/",
+          "raceItem": "[\"全程\",\"半程\"]"
+        }
+      ],
+      "totalCount": 2913
+    }
+  },
+  "detail_response": {
+    "success": true,
+    "data": {
+      "type": "SS",
+      "ssdetails": {
+        "name": "2026南宁马拉松",
+        "raceGrade": "A",
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "gameDate": "2026.12.20",
+        "project": "全程,半程",
+        "compNameOrganizer": "南宁市人民政府",
+        "worldAthleticsGradeLogoUrl": "https://img.shuzixindong.com/config/org/2026/ELITELABEL.png"
+      }
+    }
+  }
+}
+

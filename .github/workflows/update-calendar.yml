@@ -1,0 +1,245 @@
+name: Update Marathon Calendar
+
+on:
+  schedule:
+    # UTC, deliberately not on the hour. GitHub may delay scheduled runs.
+    - cron: "17 19 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Pipeline mode"
+        required: true
+        default: sync
+        type: choice
+        options:
+          - sync
+          - deploy-only
+          - test-feed-v1
+          - test-feed-v2
+
+concurrency:
+  group: marathon-calendar-production-update
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    outputs:
+      site_artifact: validated-site
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install package and CI validator
+        run: python -m pip install -e ".[dev]"
+
+      - name: Restore canonical state into a temporary runtime database
+        env:
+          MARATHON_CALENDAR_ENV: production
+        run: |
+          set -euo pipefail
+          test -f state/metadata.json
+          python -m marathon_calendar state import \
+            --state state \
+            --db "$RUNNER_TEMP/marathon-calendar.db"
+          python - <<'PY'
+          import os
+          import sys
+          sys.path.insert(0, "src")
+          from marathon_calendar.migrations import CURRENT_SCHEMA_VERSION
+          from marathon_calendar.repository import RaceStore
+          store = RaceStore(os.environ["RUNNER_TEMP"] + "/marathon-calendar.db")
+          assert store.schema_version() == CURRENT_SCHEMA_VERSION
+          print(f"schema={store.schema_version()} races={store.count()}")
+          PY
+
+      - name: Run source synchronization in one deterministic pipeline
+        if: ${{ inputs.mode != 'deploy-only' && inputs.mode != 'test-feed-v1' && inputs.mode != 'test-feed-v2' }}
+        env:
+          MARATHON_CALENDAR_ENV: production
+        run: |
+          set -euo pipefail
+          YEAR="$(date -u +%Y)"
+          DB="$RUNNER_TEMP/marathon-calendar.db"
+          SNAPSHOTS="$RUNNER_TEMP/source-snapshots"
+          REPORTS="$RUNNER_TEMP/reports"
+          python -m marathon_calendar sync china --year "$YEAR" --db "$DB" --snapshot-root "$SNAPSHOTS"
+          python -m marathon_calendar sync aims --year "$YEAR" --db "$DB" --snapshot-root "$SNAPSHOTS" --report-dir "$REPORTS"
+          python -m marathon_calendar sync world-athletics --year "$YEAR" --db "$DB" --snapshot-root "$SNAPSHOTS" --report-dir "$REPORTS"
+          python -m marathon_calendar audit global-reconciliation --year "$YEAR" --db "$DB" --report-dir "$REPORTS"
+
+      - name: Run tests and production gates
+        env:
+          # The unit suite intentionally tests development fixture behavior;
+          # the dedicated production regression test sets production itself.
+          MARATHON_CALENDAR_ENV: development
+        run: |
+          set -euo pipefail
+          pytest -q
+          YEAR="$(date -u +%Y)"
+          DB="$RUNNER_TEMP/marathon-calendar.db"
+          REPORTS="$RUNNER_TEMP/reports"
+          mkdir -p "$REPORTS"
+          python -m marathon_calendar audit global-reconciliation --year "$YEAR" --db "$DB" --report-dir "$REPORTS"
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          reports = list((Path(os.environ["RUNNER_TEMP"]) / "reports").glob("global_reconciliation_*.json"))
+          if reports:
+              report = json.loads(reports[-1].read_text(encoding="utf-8"))
+              assert report["identity"]["duplicate_clusters_count"] == 0
+              assert report["identity"]["ambiguous_open_issues"] == 0
+          else:
+              raise SystemExit("missing global reconciliation report")
+          PY
+
+      - name: Export state, round-trip it, and build static site
+        env:
+          MARATHON_CALENDAR_ENV: production
+        run: |
+          set -euo pipefail
+          DB="$RUNNER_TEMP/marathon-calendar.db"
+          NEXT="$RUNNER_TEMP/state-next"
+          ROUNDTRIP="$RUNNER_TEMP/state-roundtrip"
+          python -m marathon_calendar state export --db "$DB" --output "$NEXT"
+          python -m marathon_calendar state import --state "$NEXT" --db "$RUNNER_TEMP/roundtrip.db"
+          python -m marathon_calendar state export --db "$RUNNER_TEMP/roundtrip.db" --output "$ROUNDTRIP"
+          diff -ru "$NEXT" "$ROUNDTRIP"
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          BASE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO_NAME}"
+          MODE="${{ inputs.mode || 'sync' }}"
+          TEST_VERSION=1
+          if [[ "$MODE" == "test-feed-v2" ]]; then TEST_VERSION=2; fi
+          python -m marathon_calendar export-site --db "$DB" --output site --base-url "$BASE_URL" --test-feed-version "$TEST_VERSION"
+
+      - name: Independently validate static ICS and fail closed
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import sys
+          from pathlib import Path
+          from icalendar import Calendar
+          sys.path.insert(0, "scripts")
+          from validate_ics import validate_calendar
+          for name in ("world", "china", "international"):
+              path = Path("site/calendar") / f"{name}.ics"
+              result = validate_calendar(path.read_bytes().decode("utf-8"))
+              Calendar.from_ical(path.read_bytes())
+              print(name, result)
+              if name == "world" and result["events"] <= 0:
+                  raise SystemExit("world feed is empty")
+          PY
+
+      - name: Promote only validated state and commit only a real diff
+        run: |
+          set -euo pipefail
+          BRANCH="${GITHUB_REF_NAME}"
+          git fetch origin "$BRANCH"
+          if ! git diff --quiet "HEAD" "origin/$BRANCH" -- state; then
+            echo "canonical state changed on origin while this run was executing; failing without push" >&2
+            exit 1
+          fi
+          for file in "$RUNNER_TEMP/state-next"/*.json; do
+            cp "$file" state/
+          done
+          if git diff --quiet -- state; then
+            echo "state unchanged; no commit created"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state
+            git commit -m "chore(data): refresh marathon calendar state $(date -u +%F)"
+            git push origin "HEAD:$BRANCH"
+          fi
+
+      - name: Write workflow summary
+        if: always()
+        run: |
+          {
+            echo "## Marathon Calendar update"
+            echo "- mode: ${{ inputs.mode || 'sync' }}"
+            echo "- static site: validated before artifact upload"
+            echo "- state commit: only when canonical JSON changed"
+            echo "- source failure policy: fail closed; no site artifact from an incomplete sync"
+            if [[ -f "$RUNNER_TEMP/marathon-calendar.db" ]]; then
+              RUNNER_TEMP="$RUNNER_TEMP" PYTHONPATH=src python - <<'PY'
+          import os
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, "src")
+          from marathon_calendar.repository import RaceStore
+          store = RaceStore(Path(os.environ["RUNNER_TEMP"]) / "marathon-calendar.db")
+          latest = {}
+          for run in store.list_sync_runs(100):
+              latest.setdefault(run.source, run)
+          for source in ("china_official", "aims", "world_athletics"):
+              run = latest.get(source)
+              if run is None:
+                  print(f"- {source}: no run")
+              else:
+                  print(f"- {source}: {run.status.value}; new={run.new}; updated={run.updated}; matched={run.matched}; ambiguous={run.ambiguous}")
+          world = list((Path("site") / "calendar" / "world.ics").read_bytes().split(b"BEGIN:VEVENT")) if Path("site/calendar/world.ics").exists() else []
+          print(f"- world events: {max(0, len(world) - 1)}; duplicate UID gate: 0")
+          PY
+            else
+              echo "- source summary: unavailable because update failed before runtime DB creation"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload validated site for Pages build
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validated-site
+          path: site
+          if-no-files-found: error
+
+  build-pages:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Download validated site
+        uses: actions/download-artifact@v4
+        with:
+          name: validated-site
+          path: site
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build-pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
