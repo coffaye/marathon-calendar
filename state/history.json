@@ -77,6 +77,59 @@
     "sync_run_id": null
   },
   {
+    "changed_at": "2026-09-16T22:09:29Z",
+    "field_name": "name",
+    "id": "704a755e-316e-46c5-a574-250f9a8e8fd2",
+    "new_value": "2026呼和浩特马拉松",
+    "old_value": "2026呼和浩特半程马拉松",
+    "race_id": "1650e39f-897d-47b4-8fc0-31762019afa1",
+    "reason": "calendar-visible official source change",
+    "scope": "race",
+    "source": "china_official",
+    "sync_run_id": "c2f7c885-b236-49ab-9b87-dfa916763304"
+  },
+  {
+    "changed_at": "2026-09-16T22:09:29Z",
+    "field_name": "official_url",
+    "id": "a6f20ce1-fe68-47b3-946e-7e9b10688319",
+    "new_value": "https://www.runchina.org.cn/race/v/detail/1000479062",
+    "old_value": "https://www.runchina.org.cn/race/v/detail/1000420081",
+    "race_id": "1650e39f-897d-47b4-8fc0-31762019afa1",
+    "reason": "calendar-visible official source change",
+    "scope": "race",
+    "source": "china_official",
+    "sync_run_id": "c2f7c885-b236-49ab-9b87-dfa916763304"
+  },
+  {
+    "changed_at": "2026-09-16T22:09:29Z",
+    "field_name": "race_date",
+    "id": "f79cb6c3-f955-4ddd-a5be-43ba39176a48",
+    "new_value": "2026-09-19",
+    "old_value": "2026-05-31",
+    "race_id": "1650e39f-897d-47b4-8fc0-31762019afa1",
+    "reason": "calendar-visible official source change",
+    "scope": "race",
+    "source": "china_official",
+    "sync_run_id": "c2f7c885-b236-49ab-9b87-dfa916763304"
+  },
+  {
+    "changed_at": "2026-09-16T22:09:29Z",
+    "field_name": "distance_types",
+    "id": "f95c4501-dd9e-4219-b0ca-0b0336a9112e",
+    "new_value": [
+      "marathon",
+      "half_marathon"
+    ],
+    "old_value": [
+      "half_marathon"
+    ],
+    "race_id": "1650e39f-897d-47b4-8fc0-31762019afa1",
+    "reason": "calendar-visible official source change",
+    "scope": "race",
+    "source": "china_official",
+    "sync_run_id": "c2f7c885-b236-49ab-9b87-dfa916763304"
+  },
+  {
     "changed_at": "2026-09-15T06:58:41Z",
     "field_name": "city",
     "id": "204797f3-e4c5-43b3-a9ae-16754c1d2f9e",
