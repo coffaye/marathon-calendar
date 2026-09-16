@@ -39,10 +39,12 @@ def test_local_test_subscription_preserves_uid_and_sequence(monkeypatch, tmp_pat
     assert field(v1.text, "UID") == field(v2.text, "UID")
     assert field(v1.text, "SEQUENCE") == "0"
     assert field(v2.text, "SEQUENCE") == "1"
+    assert field(v1.text, "LAST-MODIFIED") != field(v2.text, "LAST-MODIFIED")
     assert "Marathon Calendar Subscription Test V1" in v1.text
     assert "Marathon Calendar Subscription Test V2" in v2.text
-    assert "DTSTART;VALUE=DATE:20300115" in v1.text
-    assert "DTSTART;VALUE=DATE:20300116" in v2.text
+    assert "DTSTART;VALUE=DATE:20260920" in v1.text
+    assert "DTSTART;VALUE=DATE:20260921" in v2.text
+    assert "Marathon Calendar Subscription Test" not in client.get("/calendar/world.ics").text
     assert v1.headers["etag"] != v2.headers["etag"]
     assert client.get(
         "/calendar/test-subscription.ics",

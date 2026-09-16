@@ -17,10 +17,10 @@ def test_subscription_race(version: int | None = None) -> Race:
         id=uuid5(NAMESPACE_URL, "https://marathon-calendar.local/test-subscription"),
         name=f"Marathon Calendar Subscription Test V{version}",
         name_en=f"Marathon Calendar Subscription Test V{version}",
-        year=2030,
+        year=2026,
         country="USA",
         city="Test City",
-        race_date=date(2030, 1, 16 if version == 2 else 15),
+        race_date=date(2026, 9, 21 if version == 2 else 20),
         timezone="UTC",
         distance_types=["Marathon"],
         status=RaceStatus.scheduled,
@@ -30,4 +30,3 @@ def test_subscription_race(version: int | None = None) -> Race:
         updated_at=datetime(2026, 1, version, tzinfo=timezone.utc),
         last_modified=datetime(2026, 1, version, tzinfo=timezone.utc),
     )
-
