@@ -6,14 +6,14 @@
     "runner_paths_included": false
   },
   "record_counts": {
-    "active_races": 870,
+    "active_races": 887,
     "aliases": 2970,
-    "discrepancies": 156,
+    "discrepancies": 164,
     "manual_overrides": 0,
-    "race_changes": 103,
-    "races": 870,
+    "race_changes": 270,
+    "races": 887,
     "reconciliation_issues": 0,
-    "source_links": 1191,
+    "source_links": 1234,
     "unresolved_source_records": 35
   },
   "schema_version": 5,

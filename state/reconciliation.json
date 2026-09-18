@@ -1337,7 +1337,7 @@
       "status": "open"
     },
     {
-      "canonical_value": "2026中国田径协会10公里精英赛（上海·静安站）",
+      "canonical_value": "2026上海10公里精英赛",
       "detected_at": "2026-09-15T07:38:00Z",
       "field_name": "name",
       "id": "791a52d0-f276-563c-a8ae-23d8721f67b4",
@@ -1438,7 +1438,7 @@
       "status": "open"
     },
     {
-      "canonical_value": null,
+      "canonical_value": "杭州市",
       "detected_at": "2026-09-15T06:58:26Z",
       "field_name": "city",
       "id": "3e7e6c8d-a0ed-5be2-aa72-afab44477f2a",
@@ -1467,7 +1467,24 @@
       "status": "open"
     },
     {
-      "canonical_value": "2026 杭州马拉松",
+      "canonical_value": [
+        "half_marathon",
+        "marathon"
+      ],
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "distance_types",
+      "id": "9a89a811-0fe8-5e36-a7e3-37facf1be424",
+      "race_id": "c1597be6-09f8-4890-aca5-479d8c9c0275",
+      "resolved_at": null,
+      "source_id": "44f16498-f996-57d1-9b23-7355c3d4225d",
+      "source_name": "world_athletics",
+      "source_value": [
+        "marathon"
+      ],
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026杭州马拉松",
       "detected_at": "2026-09-15T06:58:13Z",
       "field_name": "name",
       "id": "f7110853-383a-5eea-837d-720c3b48d42b",
@@ -1475,6 +1492,18 @@
       "resolved_at": null,
       "source_id": "39d2e5ee-9599-51fa-b92e-21ba0adbd2f1",
       "source_name": "aims",
+      "source_value": "Hangzhou Marathon",
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026杭州马拉松",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "name",
+      "id": "86653605-4a3c-5889-92aa-2cfacf9d2471",
+      "race_id": "c1597be6-09f8-4890-aca5-479d8c9c0275",
+      "resolved_at": null,
+      "source_id": "44f16498-f996-57d1-9b23-7355c3d4225d",
+      "source_name": "world_athletics",
       "source_value": "Hangzhou Marathon",
       "status": "open"
     },
@@ -1746,7 +1775,23 @@
       "status": "open"
     },
     {
-      "canonical_value": "2026重庆马拉松",
+      "canonical_value": [
+        "half_marathon"
+      ],
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "distance_types",
+      "id": "b2540b47-364d-5bb2-9f33-423a47d0d251",
+      "race_id": "d2f7e3bd-8334-4207-9247-7136f02307c7",
+      "resolved_at": null,
+      "source_id": "f542c64f-adde-540a-89c4-6ba136b0c9b5",
+      "source_name": "world_athletics",
+      "source_value": [
+        "marathon"
+      ],
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026重庆半程马拉松",
       "detected_at": "2026-09-15T07:38:00Z",
       "field_name": "name",
       "id": "7c49152d-f483-558b-9f9c-c8b10fea4a8d",
@@ -1758,7 +1803,19 @@
       "status": "open"
     },
     {
-      "canonical_value": null,
+      "canonical_value": "2026-12-27",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "race_date",
+      "id": "888f46c5-0251-5af3-9962-878c2c06f4df",
+      "race_id": "d2f7e3bd-8334-4207-9247-7136f02307c7",
+      "resolved_at": null,
+      "source_id": "f542c64f-adde-540a-89c4-6ba136b0c9b5",
+      "source_name": "world_athletics",
+      "source_value": "2026-01-18",
+      "status": "open"
+    },
+    {
+      "canonical_value": "广州市",
       "detected_at": "2026-09-15T06:58:26Z",
       "field_name": "city",
       "id": "8ec2a878-76a9-546d-852d-43fb6d4667aa",
@@ -1770,7 +1827,19 @@
       "status": "open"
     },
     {
-      "canonical_value": "2026 广州马拉松",
+      "canonical_value": "2026广州马拉松",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "name",
+      "id": "257376c6-4b02-5f86-ba8e-266422e41324",
+      "race_id": "d4f972c7-e31d-47d0-9043-2d0d7939a229",
+      "resolved_at": null,
+      "source_id": "2d7e6293-761b-5f7b-934e-5b1ef4089b5a",
+      "source_name": "world_athletics",
+      "source_value": "Guangzhou Marathon",
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026广州马拉松",
       "detected_at": "2026-09-15T06:58:13Z",
       "field_name": "name",
       "id": "e56f285b-b7a6-54ed-9fec-fa50620731ed",
@@ -1856,7 +1925,7 @@
       "status": "open"
     },
     {
-      "canonical_value": null,
+      "canonical_value": "南昌市",
       "detected_at": "2026-09-15T06:58:26Z",
       "field_name": "city",
       "id": "262c7200-c94c-5935-9c01-25551f42d09e",
@@ -1885,7 +1954,7 @@
       "status": "open"
     },
     {
-      "canonical_value": "2026 南昌马拉松",
+      "canonical_value": "2026南昌马拉松",
       "detected_at": "2026-09-15T06:58:26Z",
       "field_name": "name",
       "id": "1cf16235-26d5-520c-80ff-99b8c0958731",
@@ -1906,6 +1975,42 @@
       "source_id": "218c3bb3-7c5b-5b81-b309-55963b6476a2",
       "source_name": "world_athletics",
       "source_value": "2026-11-08",
+      "status": "open"
+    },
+    {
+      "canonical_value": "厦门市",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "city",
+      "id": "777b73a3-9c24-54b4-bb54-f7e0de6c738f",
+      "race_id": "e77f0d7a-3161-5b38-b211-e3a74ae306be",
+      "resolved_at": null,
+      "source_id": "fbd16516-d1ba-52df-8d10-c8e0af42bdcb",
+      "source_name": "world_athletics",
+      "source_value": "Xiamen",
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026厦门环东半程马拉松",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "name",
+      "id": "4eea1fc3-600d-5350-82a7-c51452995327",
+      "race_id": "e77f0d7a-3161-5b38-b211-e3a74ae306be",
+      "resolved_at": null,
+      "source_id": "fbd16516-d1ba-52df-8d10-c8e0af42bdcb",
+      "source_name": "world_athletics",
+      "source_value": "Xiamen Haicang Half Marathon",
+      "status": "open"
+    },
+    {
+      "canonical_value": "2026-12-20",
+      "detected_at": "2026-09-18T21:47:13Z",
+      "field_name": "race_date",
+      "id": "d0bb207d-5b7b-533f-9901-59bd6b421200",
+      "race_id": "e77f0d7a-3161-5b38-b211-e3a74ae306be",
+      "resolved_at": null,
+      "source_id": "fbd16516-d1ba-52df-8d10-c8e0af42bdcb",
+      "source_name": "world_athletics",
+      "source_value": "2026-12-06",
       "status": "open"
     },
     {
