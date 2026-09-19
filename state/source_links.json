@@ -38282,11 +38282,11 @@
   {
     "confidence": 0.98,
     "external_id": "1000419133",
-    "flag_for_review": false,
+    "flag_for_review": true,
     "id": "f7a99d05-2e2d-4380-943e-a496f6b8f691",
     "is_authoritative": true,
     "match_reason": "matched by official external_id or canonical identity",
-    "missing_count": 2,
+    "missing_count": 3,
     "normalized_data": {
       "association_level": "A",
       "city": "曲靖市",
@@ -45314,7 +45314,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "85caba1af1dfa0a6890148189094e203c7a932ec134bd56211542913a3a17bf0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45364,7 +45364,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "005e35b64cc7e627cb6bf5f9fe69fd06fe55191524fe8d7b6cc6bf0bfdd11316",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45414,7 +45414,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7efa8331f685a60572cba2b6ed76a22ad1836bc34cd406f87ed5b46a823f0061",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45464,7 +45464,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8b34e94cbceb916b83c643bac49fb8f5ac6bf344d13c896a951b2ba9f6768753",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45514,7 +45514,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c642cd0d1b6413f3534c6afeb1e14ac602671663613b4e6be7b20e6ecb046320",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45564,7 +45564,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "0b8fd887b087ca12ad7b714d770651a1dc3c32befa4641372f8b261eb322b065",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45614,7 +45614,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "773c2be8962d46facd60a1c7e29316f8159c2196b4819a3196e71e4dc6de5ac6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45664,7 +45664,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f8d201dcfcb975cce783cf78f763f81c095f78bf3129397902f2ee19977ec529",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45714,7 +45714,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "26c2dc051a553ed26aab3a605cedfc75a10eacf8a4425040794a134e2fe34952",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45764,7 +45764,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b6e4f8e7727433fd3bf6fe97d745bd3ec370b55e3fc676a03c7166fa8794761e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45814,7 +45814,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f47f94f7e8e163a48278df3e1c700f3472e792fceb160cfa035ee88764b30eb0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45864,7 +45864,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "55c516a3a47973f77782a678d1553b317a08efeb055016d7f0496a4e5f28f250",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45914,7 +45914,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "35d738547abddf84910aee81cfa73e493f60196ebef5b4c9334e30e67013bc96",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -45964,7 +45964,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d5ada4fd528c42a6306b3edd758e3a557d01c5ca72e737600b92c47765a333fb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46014,7 +46014,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9e573c0178ae13fc2ccd2395507d2f473b120d72d11c89fc25bfae0283c518c0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46064,7 +46064,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9e6903806938d3f8fe165f80ee50bf9b6589cf7b15ee055cffc31e30057ed377",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46114,7 +46114,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "063be6a3e8b44daeb3a03717070117d1383fa7216f230444d09d7026ffdb9b50",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46164,7 +46164,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bc951f21702c4b76b738c869664bfe37d1e4de08e38022ae572b6d08495b7412",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46214,7 +46214,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c9e3c3b5ae19969340e191a1291949244bd91e05d63c5fe7a705a888080e0204",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46264,7 +46264,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3df488aa5954b1ae224d6ab235e1762901e68e8adcdef0d64550c8038b4804bd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46314,7 +46314,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "03a6f3f3f87c631d7746d805896889fbcdcaf0c4f9a7f03e217c11b9a1165963",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46364,7 +46364,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "38ed24d517f928d052e2e3cc0fd37bb2998bfcc0b7fafdaa2e5415bc09f2b2d2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46414,7 +46414,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d0a45e216e47e18d2d945d37d32d02183dda54c7f87c9be7231280f0fc19f16d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46464,7 +46464,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6896270ac11667ee2ce9519c71dea5c209915c50d7ddbb0a5637ec3aa073fcb2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46514,7 +46514,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "792c43169a1abd26407045ee307fa3c314089e43b45203c415d8ee077640416c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46564,7 +46564,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "819e450972465e0137a1699ac8de51a44454c5699e7aea5e33eb3c8d0a4d97ac",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46614,7 +46614,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "4736a8877bc56633805754d4ce72f1bea402f85b4826303705c14932f275025a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46664,7 +46664,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5b0aaa09268cfcba27eb2b8389519913c3790d1a674a8b249af59990684b6e85",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46714,7 +46714,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2a0f751dc180ad30410cf6a1916ce84bda7c8b3fd2f664923e67b495b1e9cbd2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46764,7 +46764,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "abedc595b3f07fb9814b5fbd830d39a5958421701648c020b844d9424633027b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46814,7 +46814,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ff488afbf79f822219c1dadf876be673e91aa278961d8c1b84761ce937ecf1c1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46864,7 +46864,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fe9159f0dbf8de938d2fe4e6c995c303cc984a6da73bdd47b6976a1608b18a79",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46914,7 +46914,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "87a6399fa11b7382040a3e0b4a2e7dd9981d72f7026a537cd6f6c766c7a1d213",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -46964,7 +46964,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "75335148be8eb8539d3749a9c930cae698d9babc07ba999293c24e3288f5d96c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47014,7 +47014,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8dfce5e3abbfb875d16b3288bd430bec533e4cb5bf6ae943d46e924b7e0678e5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47064,7 +47064,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9ef23247355a641741028ce709a197140fd62bf0385cfa7dd2d41a969630f4eb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47114,7 +47114,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "aee7ea1f6d2af8e2460003699b61120d3f5ae8bdfc3f151bd32485459744521b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47164,7 +47164,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5a6cf5d03fc27aa07d6dd2c1f44913f74c79cfc2d441349c735df0a3093dc79e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47214,7 +47214,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1af685c0f0c56e911a79fd88c1d6537face98f4a7ab9c2bc39d86b29439c3075",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47264,7 +47264,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "15cfa42d8f2252daddf0131242d3674598fd2120f8cecf7b055eb847666fc93f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47314,7 +47314,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "58535fd0701efaf4b2ed746a9a36b6e2fe1aa3b620e3e0dfa21bc9ef412bd6d7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47364,7 +47364,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "41e328a1b05050c0b39d7fa0ec12953f6074aa2ef5cf78a376f26eb5f38292ba",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47414,7 +47414,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2b9e5115922c0ae903d660c4172e29ad721286f85345f306d5bd34b4245fcb25",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47464,7 +47464,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "633cea8898893bf9a89cbbff674f5282cfb973b8468b4ec3a39c89a401e7601c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47514,7 +47514,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "4c489865a9e6a36759413791a918bd86615a1c195093fe888d1bb3c4b74a3021",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47564,7 +47564,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c0c8cb422a2c17d7e4601dab7bc8765d5a99b76addfa755c821a473972237f6f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47616,7 +47616,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "30b756a7161ec6bd8d7726fa8829b0860979061ebb0e40dfb53d55ef30c62d7c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47666,7 +47666,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1541c504fd6a72c272637c459bb8c6f3e98afaaa02bbc20e8e64e7d795ed61eb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47718,7 +47718,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "24c9d9ddd2809171a719fabfd050c6809f9583fa70ef6150ace5f13ca7f3e447",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47768,7 +47768,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ecc91258a81d7433dc53f26b6ad3174163de6b7d2a7ae47e83f0af7e5c652481",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47820,7 +47820,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "38595506a20130c926238ea30246cce2b33042aaffbb5980aab32e94bdc83ada",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47870,7 +47870,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b2735dd9e53572ccf98f1f2663c658fb60b8ce8f35a65fd4c385388a77c11415",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47922,7 +47922,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9d9d33da66b87eb1955d5577ad9f5227fb3502c699e74db132dede46883b66ab",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -47972,7 +47972,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "863ba25333eb95630fafd53a1c4f91003d0117fb863f615123d19000d77d15d5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48022,7 +48022,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "80bbe4f85d10ab0754827f3dd3cf75cf19daac5005cd2eed0c4bf4aa6650fa18",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48072,7 +48072,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c4135f1c51678acb4179a86886f5dfa102181de9461832153c4d45e70a509aed",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48122,7 +48122,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b24cc27d9ef76e2b3e20e5253c9336302c61077dc181fe0660ab1b0c39e28e70",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48172,7 +48172,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1961b6b034f243c7de1b6a0f0072f6c0f0ac768abefb8c95b9a8adc65334c6cf",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48222,7 +48222,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a77e06fcb754097a17947d1c8fda7f8efa410907e25efa24dd62ede89ed8d4ab",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48272,7 +48272,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1e8a0c9ca2ae529f9e8a291b9ea0eccb80bec325d37ccd156e01540581c1c821",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48322,7 +48322,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ae0f2df8a2c17f4b6f5016c52a1dff7ee55550c4bb290222486497071b0fc1d8",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48372,7 +48372,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c28426b27b2e4f88dc95386fd364c5280efd8cea2d204c5d1efe26382f6c5e45",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48422,7 +48422,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2716cdf6e63b4976e58621a124cbdf929aea6e7451b2b162f8520443f6999035",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48472,7 +48472,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bf3b3d55a20c4b9ed77f79ba6dac66b8a943f05561cce958145b9b81287780c9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48522,7 +48522,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6bbe28513aa1a09764444e2d24028eba3293011002007fd3528d083cecdece82",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48572,7 +48572,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1d90fc9880cac41f7501107f3767c61a94dcd4112a92ca2493808199a4e315db",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48622,7 +48622,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "75f578db9084e288d04fa53d4026c8c7ae7534a396a42929d29986c1ea5a82f1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48672,7 +48672,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "0576dbb20c3d670b498d94010c81e6176acdfc5721e27032770db8bfa5ac725e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48722,7 +48722,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "cc8ee047525b66d05f4f0e75b3fbca0340c494feb75bc0d196079148bef4125e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48772,7 +48772,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6a2d57ee683474860cf2a5d434a8258f7955616d6667d9059f428d6fd20fb8eb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48822,7 +48822,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e2c94ca081d4122da4ce26b79b0b42b7b5ef872b3d7ec274f7a954abe67da065",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48872,7 +48872,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "90c1c4376dbaab9a3c8b1987f58288f4abf96a25834bab6d00be4ec0ad97bf90",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48922,7 +48922,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "03a14200eceb487a3802cce70f15b869dd8f43f246bf0f4cc7758c6441080fc9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -48972,7 +48972,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "4a23d8384d801476dc9eb77450f3fabcf1a3a1993b40ffe9b03ba7b3b711c21f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49022,7 +49022,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "abd6a3aab6f7fecfaf2c57f0668d1aecafb37d41c2350fd4e20d433bfea7b119",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49072,7 +49072,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d3b6fa8b6bda625ff5f717c1148d476db38c68ae9ad672f41d80414b0088a151",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49122,7 +49122,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "052b39cf5740aa3acd0f0b8ca5bacfbec70dc65fc1b5f9d2b9b97b424c3c1ded",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49172,7 +49172,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b17ef7e9c56381cd476b2ef2488bf49868d79247b595fdf0f07a2a77c45c038e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49222,7 +49222,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6723b02db45b39d852e56ae1c8f9f4ecee0e09257a6a0b0fb1030705da04b965",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49272,7 +49272,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9d5c2d2648065fe5b51f951742466b2024450a40df7d1b6edfacf2f592442b4d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49322,7 +49322,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "633199d95de0b0ea2071e06f2eb137afec050f49c5c7a31df16b21e1ec8e9f6a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49372,7 +49372,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c841a5e5db7b5790002842b07c482fc7d61ad05031e5ec8a00889e3dc5b89aa7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49422,7 +49422,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1dabc94251dd84124776c102bda5a9d52c395a5d29b91961e6ebb1c04f5af727",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49472,7 +49472,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5f978aa4be20170c405ccf26c147067113087e4a51558599aea37912bda160b0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49522,7 +49522,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a5df4dd7e5ea3d38c10f4b18ef81fa71766536211e3004157ab9cfc4e2012adb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49572,7 +49572,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "917237d11cf776715d73256fcded21b377cfa3fb5f0336ba881bfdf7eb951ea7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49622,7 +49622,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7399ba4489d6ac2f212aa7c9f2110fe205a7b2424288b7d5634d4a52534c8934",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49672,7 +49672,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a42c754844982ace626f1f6fa179371282b8945ce2c6c783e65415e9497bf1c0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49722,7 +49722,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8ee6239da8623a1d8e5a4d8842927cef8cd8a3cb1c02a09ab268bf07ea1255cd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49772,7 +49772,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "94b83ae437e17e1d754c91f567767f9ffe0cf7c76f4d2c09ae229e50ea9356ba",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49822,7 +49822,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "69a86fd10b5e46210a51c11de100581d918891970aaddf16baa4f6e897ad2f60",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49872,7 +49872,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6b92c7059ec2376600da5038bacffac8f0aef6b5af485abeb72fc1f45e58ed2f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49922,7 +49922,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "dce31547ea9039a6e2833ae915eeeaec6b7eb5468c5d5a8afe6ee586919c2a68",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -49972,7 +49972,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d7f953077450dd8c44551fdefe9fd3b9df3f572bb7b34227981fcdfade7db8ad",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50022,7 +50022,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5538d2c6a4fe01d6a9b0e2df6a09632674c0cd8b9d3f3b98627367c8b89368ae",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50072,7 +50072,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c731671e35372954ec8bb891ccc509d8827c5905f09da3166f8d9ae20a65ae85",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50122,7 +50122,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fa316e597c1588f3ebfed6b7ddd59d347c1fee80bbe13e2d35efe7762b8a5be5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50172,7 +50172,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "56af01112cf0312ddec76a54f4459d8ca895adbb99b51259634948f3aa5efd85",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50222,7 +50222,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b2f511b280b10b2d28317032fc8a687df3bfb7038bc6a537b3e2cb5c38c76d9f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50272,7 +50272,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "96a31388a5055f8fbed1277414cae9a463b3255fa8807c35655fdbc619959fe6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50322,7 +50322,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "44e2923d42efb154f10fea92e79d9a0fb33a8162fe738b37d174d76d88e42829",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50372,7 +50372,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3a685592fea46ac33e2d29570d35b7361c897588776fc1709e66f1ca21ee6e2c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50422,7 +50422,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8ce864e3703f1d83ff4627df85f0707d14f1d137789a48fb59ef7d7fb1a1fa25",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50472,7 +50472,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ba3ff87e62db3ca87c297bbd5be0aba09531cea6e5cc2bbbd6c7fadc692ab928",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50524,7 +50524,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c90aeaa619d70ef3fddecedf100bd4740488ed692f18e6bf2745308c6b2f9aaa",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50574,7 +50574,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "943aafce9d61e8ad078a7cc6958ee721cae22b9e8c866c420f74e43d6e24df8e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50624,7 +50624,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a2defeb11d481f2a687d7bb6c7b0e19f8c0f44b8dade0aa3b6e8c1b67c57f8fd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50674,7 +50674,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "abad41f3166b22c1f34122d5330b58292bfa0091491225fa252c723ca22fc393",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50724,7 +50724,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ffe05188818c3176e26f51e8564ba233ed4a3de79d5fe30b5f0382b6bc08d1cb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50774,7 +50774,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c5bef80906241a4afbbf3ca1e7edf34c7b96bda9619f59aaa0968021ca4e8491",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50824,7 +50824,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5ccd11d70bdab69a00904978e095546553bd2e7b6294339008cb2efb990e8b8f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50874,7 +50874,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "12caab1a590e44f6cc9bf6b7d962d65ae917da5848ab4ce0c86ab5a5d41d7131",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50924,7 +50924,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "438d70c30cc170feeb7a2f97bef89452b958ec79ba728e7138207159e04ce810",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -50974,7 +50974,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "36fa8726e1ac23b74912f6675a42f5e91b661acb6a877162946b92fab30939a6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51024,7 +51024,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "486bdedfb3e693cd67010839d51307dd06a3746ce8211312cfd12524ead36a98",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51074,7 +51074,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "873a6cef242b0fe58a802c9368eab7d4dfbedba96fb12cba968834b7a7d84cea",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51124,7 +51124,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "cc10c8885974c5c146dc670f9abe387f3ebf91a4e3e51e4dd0b88f0dc31bdef6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51174,7 +51174,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "aacba1ca2f21f3628fe9ef6b239470773142bca7048ef915a28efdbb4979e22b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51224,7 +51224,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "42cc8cd0c2e84619105d5e7e564d384a81a5b39e02c997cb198552475d933bce",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51274,7 +51274,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a538e9e07f23160ae296912d47c39c06a69aedccded1a658995ce646153c8907",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51324,7 +51324,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e800725dc0407102798b046b0f2741acb63129952bf1d04452497512b8418ec8",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51374,7 +51374,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "cef42e3913aa293812e589a30e49d0abe1caeb6881f33edd01d807abbac23ad1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51424,7 +51424,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "eea409516aeb9ea07ce973efecbac102986f45826e98b50a24a89a7cff6da8e6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51474,7 +51474,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "668b9af146cb27f859147e3c8618bae1951d1e7d73677ef7052e76c1729a473b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51524,7 +51524,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "14ba20b4ef66dab92378bf7875071a17bb9f4e089da79efac6f1887ce86772e2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51574,7 +51574,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d31e02478d7092937d8b81bc3c37837ca3ec8ac3703619bf5c480c059427ff32",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51624,7 +51624,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "02243475a29dd749b1591f37925aed37483a8a699668771521e6bb36b96eba40",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51674,7 +51674,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "0efb1c3d8bef93dde2074c2c0c64f5a5f0c303403fa7d4599db8d9792f7b9441",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51724,7 +51724,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d7fbd6d4e122a39e4273dd63f8242ab9846eedad26fe9a3d31e314d674cb37f9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51774,7 +51774,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7b63ab8155866ded7463ade1886479eef378f1b301443f8b80a751540a2ec7bc",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51824,7 +51824,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d806de67427fc8fa92bdb4308f13c1434b68bd2ce9cc91d8265fe1d9b87b6021",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51874,7 +51874,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "555da6ccaea69b925db514ac5cd2f5fbd486a86151080852125e9aac706ce919",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51924,7 +51924,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8d4a11ac6617cb896a11e04cca4469c613d4dd8d36ff2c16588f7017317b232a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -51974,7 +51974,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6eec41a94fcdf1e6a712fe0536ff698a2f6d66b8170dbf660df7babc4d64eb7f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52024,7 +52024,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "0a15608f192428b83ed7849616f5dc7b3bad0d09c54635203ce67ecb06228715",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52074,7 +52074,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3a373f8af774b7cec86e65aebd657829557ee8acd09bcad9d72b51091ee75a7d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52124,7 +52124,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f6305759a6b15e2fbfc5e0c25c862163f3415051c58c369cce63c92c3ca1b3a9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52174,7 +52174,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "95849e8c50b5397b7cf49a1412d8482d372c042b3cc77aa25ee68b2187432840",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52224,7 +52224,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d02c7cb9429df79320b8ac0ae673213e0dc09f91ac6cb7b4bd8c0f5f574b9f9f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52274,7 +52274,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3da6d22a52984144cc4d175f20c423707335bf26128fda97ee3c10a5eb6ee6fc",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52324,7 +52324,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f7922a71d03bedde7bc22809af68273e24015748cc7ad6a2aecfff75995c2906",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52374,7 +52374,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c3cd36c3a888583e1f755db2a27a49b34e8d3985cdfe3a1163fae03c53f4ea9d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52424,7 +52424,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5bd40fba33b739b175402f30b92d6530cf27ba61013306b4a1085d96b8e875cd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52474,7 +52474,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3cb675867b7e2a73ffe52663056479f4be62b6453b9de1a2f71814b06243c31f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52524,7 +52524,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3abe0e2c0118b28fb719e9b3ad3176cb149dbcd57407f7a38cf64d3bf6c30f37",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52574,7 +52574,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bffa52a60f474d701dbf860023b41bf50222a0050368f8a196dd7dd4a533accb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52624,7 +52624,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "151943dcea7f1727b88b6faf45c422df65f269123d5faffea4ef85248311cb3d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52674,7 +52674,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f70a4494868971262ae61350e44bdf2c426ee379c2b349b055ff7395aa543036",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52724,7 +52724,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b19a2165e4be88d5d5405a8a4ec72c5b9d2f97c8bfaf33b4048bb83df1ac8ebb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52774,7 +52774,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2ca45df17ea3f0a1723a9486a1d0b33ebdc879bdbbbb328c32791e8ee3a52c20",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52824,7 +52824,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "737da41cdca597ae54c104c3be4892f15184ea668463083ac72e75fb3f61f9ab",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52874,7 +52874,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3941206083b252662bb288585f1f2e66a0948cfa9befd9e26d26606a269b9fe7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52924,7 +52924,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a19d30cccfa696aaae467ff14ed28a109ecb4c7a6a643acbdcb2c1cd1fdc9304",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -52974,7 +52974,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7da4d88fa5a98f4e5f92cf8f00449d58cebaa741af781c7f537e79b25065ff70",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53024,7 +53024,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bf771ccaadaca74a9a41909b9226fe2adb7dfd2b19c74e491089856dbc55e436",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53074,7 +53074,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bf5490abfb3d7bcf0ada8fd2328c531a5bc6b2c785cca00b4f19e0f894dfea5c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53124,7 +53124,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5a4f4daa46ebffd506ff886ba1778c4cb7a33772c08d0c61d0bb62ebb0a2bd63",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53174,7 +53174,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2ba4d6dcd7275b01a52b5f3841f40c9f3bb91bdd36d4badd47f7269ae27cda3d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53226,7 +53226,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2be16cde0e210686aa2906df1a5e83dcbfc69abda8df9fa47d0f96193e79ab30",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53276,7 +53276,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6f2e0c2017714bdc8e322de89a576a9c0bdad80407fe68caba93a516a0b29465",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53326,7 +53326,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a54dfa2bd4eda220105f54b425e28d9c5b370a6641cc7ec287b0b5b015ec8c5c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53376,7 +53376,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7893a01aa5e1a2a316fc0cb7163a8a8abdde63e6e2155be7693dcbb5fb07e236",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53426,7 +53426,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f27b83c52477202c7b30c24fb1362bd055feb262d7e5df3ee1c7d878502c2d89",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53476,7 +53476,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fa02075e4a0ac9da8e6db769b4fee060acae54c8fa7579f38e403fdc153a0c4c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53526,7 +53526,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b27c1ce5b6d20f3211532e990b2fd4d744eb4f729919e204e13bf4eea122f9e9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53576,7 +53576,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9d5b9385f6cf5e17a3cf153fff8aeccd16c7ef09bee3d276ec05486a0b8148ce",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53626,7 +53626,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fc567985d39d0e71c5713a3c7a9a5b7118f4ff440c4d8f4efc109c5db4b5c471",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53676,7 +53676,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "333d11a2a113e4390acb89e0d9d59e13faed2e4d63b48143e26ec7e4ede8a653",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53726,7 +53726,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a19baef4b9f137e6bbd70843a20831708615c257e1a3123b855ad51968a48f17",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53776,7 +53776,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6540b3907ea8154abe339e0a82388b60aafe68da44f68e08193bf492641c83b5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53826,7 +53826,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9da9381d57ef6e940d5c30ec21a33b07a1d0ded50de8157460ccf8619b1a82bd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53876,7 +53876,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ccd94e72545a899c573707ed87dee33a95d04abe5e8e5bd5cf9ef532a563502d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53926,7 +53926,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2ad97eb58ce2ece5676c8e1e148741f7f2ed9da670b1358cbe4cf848438fa43a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -53976,7 +53976,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "051c016573ec705377c92d54cc889e246c6805029a9680c28d5aef99b475b5cd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54026,7 +54026,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1088f7148643f9d8620c8e1dac3ea8ee18a6d38bb60e53e7cdd08d262ec7a032",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54076,7 +54076,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "567dd097be2b8a3da094dab1b73c795c0cf541bff98ea82f4f3145e3fd0baf64",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54126,7 +54126,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f9dfca3778f0599d3bf40d5303ace01b1fa89fb96c54631dab11cf8e0a0424a5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54176,7 +54176,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5c935302ab7d68106c509106fbd8cedd46ea949801333dc574d97208c6a0f905",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54226,7 +54226,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "244878155dd3e5a3759a49e0aba59dd7e8136a775b80b2462af1bc86e577ad12",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54276,7 +54276,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "be3bbdf7ad9278fc268588073c9d432e5db7625d50fd4598edc333de2eb23a84",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54326,7 +54326,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "46ff0ee1d176662bbc94ae2c61b7fbadb4f015482690f8ce4492c27016bee710",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54378,7 +54378,7 @@
       "mile"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "00a6d37b264e2fa94e1a3a94b766cb4f2297f4ee9548997314128531b9d84efb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54428,7 +54428,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6dc0d5a7e58e6d39262c492319962ebe42d370562a3d30cbad75d614c9e5d037",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54478,7 +54478,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a0aa0138522a79e2a302e7fa44f921d3d1f42732cace4fc2c5f73a4dc0ee46f4",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54530,7 +54530,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "870d10490fa2758859f69069ec44193ba10db9a6dd4fa090e88255ac5cf4e8fd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54580,7 +54580,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "612de7a292eea11cd4edc72d89d908847e2a223a5ee5147ce9e17e77cda19be3",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54630,7 +54630,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3097d927f0ec5df127e507b1fcc91bd47c9235b2607116c5b93b02386973fc18",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54680,7 +54680,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a3ee065c3f278b24999fbff54ef1915d66e0a8209f9252312d59a74483e8e8be",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54730,7 +54730,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "20f539d12a267727575a092e5ca8bed5122ecdef321916936042f6b79cec1ccf",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54780,7 +54780,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "97d9763184b9e3cb001e5203ec5c67f00487a238a56b4edd562b91f92b374b1a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54830,7 +54830,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1c9f5f31afcef16877fe4ca99df12f54b37b296b5350458777b7d3c0ad3f19c4",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54880,7 +54880,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3397fccda115e30a7091e929cce0ba5c9ad33538f46159a4e9e304b8403ebbd9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54930,7 +54930,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "60313fc315ba22f826f53ca96b9b7e68b2715c9e7590887de7b26632f6b975d7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -54980,7 +54980,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1efbe2302c02a5ee1f0532eb67848f330cd5131ff4e46f46b0fb9f3ce7be874f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55030,7 +55030,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f9d1bca5d2f5cc23c827a39e6b21a2d8b1abdf206d79e84254c4b25c1fb0fc03",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55080,7 +55080,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "0e8656f379070717b1e5fe983841df1c40ebb5e6879775d23de01a43c7a30624",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55130,7 +55130,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1975e55313905829f63b8ddf55c4c80dac486cc487f2769db0ebbb536825b232",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55180,7 +55180,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "576cd846aee8e725c71002eababaf87aa1bebcf106ee728ce6e96d6fbc2e87ef",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55230,7 +55230,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "92da886965ed7bf4c2878d62e00bbf52188578d9c1e3258acbc83ecdf706cabb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55280,7 +55280,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1e22b4ca441797fefd6015aaef875ca6a81b8abe6c765da9375dd0531113ae1e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55330,7 +55330,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b7548d3d4717f3dd68f7650693b878dc34c6c47ca07c8ee99efd5878a24f2866",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55380,7 +55380,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7467bed1879c309f3cb7ad716bc8435e24d35909b6e8d4618e5aa336c779b48a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55430,7 +55430,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7f22eed61e15aa7a0c7400fdea6afdc462edffb60e73dd1092c0bb28c0127197",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55480,7 +55480,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c5452a3d681d624d6233180ed7af404257d1ba05d47f4df7a060715bc47ae796",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55530,7 +55530,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "92aaa06e977c85a14a180804541777b9eef0b257057d206d08be10eaf75c76b5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55580,7 +55580,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d4872922eaaaf36852527524e187d387b65801c93f8e5bf60482a98d0926cd64",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55630,7 +55630,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fed04d66bc69f6a693be56692e18b54ec8588a598ebfc4cd548014955e60853f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55680,7 +55680,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "962ed6b94e398d51b0039dc9d03392528c1a5cbd474aa0767bf3c657fb7a8b6a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55730,7 +55730,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "419f0f423054d8e5c998bc9aba9a86071a2a36b04777f9f052f6c5e64799ce38",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55780,7 +55780,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "4432ad6e244ba2318377abe924eaf7cfbce404b35e67283bd0f62357a2c08419",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55830,7 +55830,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "990361af38f1031e12294ffd27683f71269f59b953e876f7fd93d8646df04940",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55880,7 +55880,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "17c22181a0c5aee169422722c207ac2256e262e6965bcc06f936934217170a3b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55930,7 +55930,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c361310b24608395415fa2eb6927db8a3143e7207f89030b5a808651f343a1e9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -55980,7 +55980,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "45a9efac8a281bee34ea378d7b67ddb05295178f8a12b9fbb688968a451c1d9e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56030,7 +56030,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "df73fcb3d03e01acd0b5a35c36d9763be544ddf81b34d9925869cc980bf8a18d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56080,7 +56080,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "50a2e78543ef5b358afb6882c888b43cb8189deb30815a3eaa2a926387326c80",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56130,7 +56130,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ef38f5e24ed4175bb7ebfec607b0176323a6c57fb221967d8303ec1f0811ab3d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56180,7 +56180,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e81a686bc7ef4ad21fb76a2639f0e2a7493654b3e54608a2de64c75863a696c0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56230,7 +56230,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3b35be0dae06d24c3126d66e313cd5e38f93dda2ebaaa2c2d6364d571b7b9e0f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56280,7 +56280,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1ec5701a6ab3b4652b37c979da0be8dcda45a5e5bc001146abfbb299bcbf8f3e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56330,7 +56330,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8d51df98661cae9b844adb59652f8676201dade966b8f23053569555ecad22df",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56380,7 +56380,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "20d19ba9cc9a4ac36c6cc30b14bc22a5aadaea3e8bcfd0a0f9483eedaaaabc17",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56430,7 +56430,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3cab1c938cb16c155b60bf2bb342a786a48c87108751da821da858adac005a41",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56480,7 +56480,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "243351128b5cb952e673a0d2be13b7586e49eb3d095a0c5e2a43fa9f426ec8e2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56530,7 +56530,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6e69c0865d91f7b1414ed8339c0ccfc883e3fb84a0febdabeb8a51a6aea7ad3f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56580,7 +56580,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "932de58f0f984e26ad9c3d228bb9823161344054fcb89e12fb760d6cc840dc51",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56630,7 +56630,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "59d07396a86295a9f57f63969b2c777abc5b06bee7a46a398b996f811c284013",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56680,7 +56680,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b33479fe2b4357f6c0cdb56051de04ec692b71b57e3724d139e6d8b3134c64e6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56730,7 +56730,7 @@
       "mile"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3301c42a9e04f29a4d0804d122f6f8fbded5dbbeb23c02607d02cdd4de1c6231",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56780,7 +56780,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a46fd873fcacacf9a5b158b96e3a2cdb99b9afe9647ed7d56a1900e58b2634fc",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56832,7 +56832,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9e3b6697813c9d7735c3224c7a27a09c2813abc4776346e32e8e13b2b7604524",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56882,7 +56882,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a312c5510180c53163a44ff7714a3a9ca7feda8012cee2c924ca16d36b181824",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56932,7 +56932,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "39f06d48603fb88ff180249725f3ddd1672704799f20369560bca49169407d4b",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -56982,7 +56982,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "85cf780256c709d27e87ee7672c9f5ec276a706dd3b4cdca32e29b9a6c970fa8",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57032,7 +57032,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "da3a8ad15918098c3cf24d31929c2a27c63d8b681e792187f529fd15f1b5db75",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57082,7 +57082,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e42d2a148cff678aa8ce13e25a4f92bc7bfb5a2c45d0a0db1efe4c4340b757f2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57132,7 +57132,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6c1226427b1f91ef1c07c41d3cd7af1f0fdbb8d36db10ad9f4f0c13d078a00b5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57182,7 +57182,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5a777913968858887e1ecdb0d1b936ffb809d0fb4fc4cefdfb169a7d6e701c35",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57232,7 +57232,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e1d286b6c4e1f6e75d7aef0626222098a2abdd92c4646e16b49c2baabbf1b50c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57282,7 +57282,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d36a9ae6377714ff01d2472605e526977e1a3ae78133834b0a1311e1882a6f8c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57332,7 +57332,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9ac545c619c78d3b702ec9240ebfb2896201356a7ee8c06c46e5c7d864269de3",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57382,7 +57382,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "85c58e8bf1c9b4cacabb280833d81d06546a04ecb02ae72045f8c4fbbaa55702",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57432,7 +57432,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b9e5ef0f0ed42c47b577c1dcef054310d6ef6af4d6b42f5c19881d3982866323",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57482,7 +57482,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "04aaa0b5f08be741455ed7c82258b8fea22f490c3f2edbc7d3dc5d9aa19ffe4d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57532,7 +57532,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "698bbd3b69e98b5e8b8655f9888e58d00a04abc284ea71a24c31cd3e214b3008",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57582,7 +57582,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9f29bfbef99441cc73c908cde3a7c4eca726a5b9a9a674addfb6733efe02bc22",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57632,7 +57632,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "efd008d997966d07679c7831378db994883c914250b75cde3780e72200494da5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57682,7 +57682,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7ef535124ac26234e094de445f29d1d76eb655c79229788f4e9050b07fd4fd0c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57732,7 +57732,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ccfe8999a70fcba1ef6c36664f69445d471cebb198c3391adf23298d83a8ca71",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57782,7 +57782,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "bd93fb33a478f919ef0e4b4df1ae35263c28e33c3d387481dfa45c3f999e453c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57832,7 +57832,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2932a0fa4fbfda1a7b0888c2a6aed5b4e884f8ed479dbca3744af53b957cb703",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57882,7 +57882,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "348a804379aa70fd02efd80dbde9e8be558987399eba5c39a4969fea0815d5b1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57932,7 +57932,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5b7d19cc8db948065db4f6fb89d10ef5b2abf42f942b43aefcf4df8235fe9eb3",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -57982,7 +57982,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9c5c4408202aca572d1a13722a03facc4a76eb4eec876d29a303b85f345b0708",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58032,7 +58032,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2049d607807fb79be982abe4214de0f4b0ca78b03db62216b5238988418a3533",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58082,7 +58082,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "174ffa93db5c7e336bf83be8341e13a814f7527edf131da5bcb6e2fbfb6fbd75",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58132,7 +58132,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3a3d5bef7e54fdb03f7f77f33a6a5b7c3f41cbcc5be22ac4dc32548058f73310",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58182,7 +58182,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2235878955d09d493ec181ef516643f567b1a2655f8917d65e9db7cb12e642e1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58232,7 +58232,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2a6a712c168006de81d1b8df23e6d03ad33c7e8deae33ef69d0e76e741f73afc",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58282,7 +58282,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "478a09fa4a803229b97578e7ebcae70878f4e6eb14e2b7aa4be7126e47f54715",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58332,7 +58332,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "38f49fe5d9751395dc9c3a87ff4a5c8f34e86850a4ed05772b6c08c017ff672e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58382,7 +58382,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "84f6ebcc3733e7aea117aa4961a21c2df26554d2d27b97d426d80bf053bfcb03",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58432,7 +58432,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "55181fd3a3045de95c4803642fa667b7fa0d32b09e2fec9ede7554b8af1491a6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58482,7 +58482,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "db0a36a6d9a4bcae5974842efb7436aeb4d7dc8b15955182e2078258a17ad6f8",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58532,7 +58532,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c09520a58854b24d7528642c7eaf147c33fce365beeee1427e350b462ecfa8f2",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58582,7 +58582,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ca7dee25d51e3bab00843bd752fc7ca8eee679e185c1260d9c7dee962d638ed7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58632,7 +58632,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b7f0ef68c75531d4ad0b02d1b352f42414cfb2755037a79d606f5f1613b9e987",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58682,7 +58682,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "4eefd04771924afe8d69bdfc164de6fddb86d94f70daecdb86b876958c61c2c0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58732,7 +58732,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "18c1d7ef04b28ad150e9e37b75e3f1e892dacb1f4ef29076fc65231778e16c59",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58782,7 +58782,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "46cdb9ebb1752e44119dffdff4bf6e4e98b2b7e03b7d4303f2a7ec76286115bd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58832,7 +58832,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ca5da6ad9cbd5d99d46abe3c2e64498d0cfe81be86463f46f918e5e3787ae137",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58882,7 +58882,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1f5c744e49a7c867a4d3eafc81fc57ad3771af75b7848b2f75ae7deb8e021664",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58932,7 +58932,7 @@
       "mile"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ec62517cb94a975d1ee7921ed9a6139f501b955fe016789ba818902434930485",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -58982,7 +58982,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "56da0dda6b41b77ec7ba3183aa4fbd8067e9459432abbedce6604a5e956d37e9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59032,7 +59032,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c1ef3e1639f2828274103399224fba1f4b7694c917860ead0e06d3357346c5f8",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59082,7 +59082,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2e4e3d1677ed387588d124e5887ba10f233e74eb96cde5a656486f8702ed3227",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59132,7 +59132,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "669f1e06506212e41b14afc1c905c5d84e5af1dba285f7f507b40f1bfd354621",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59182,7 +59182,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a5678249416700467af78c50c52f95797b1b21cbd229a3d28ae99f83483e032d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59232,7 +59232,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "69bcf5e50044585aaf7aa5748bda33ece8f2b429ed19853340e1a3c762dd3ec5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59282,7 +59282,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "65402bf32e8741cba6aac158ac1edc35ad2e773a3421627e4476e5da6aed78c6",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59332,7 +59332,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "a7bac4044066c3967b9b733a015354c51089ebd25a65857c90451c08e8b0af3c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59382,7 +59382,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fef880f3169ec0bfe847a303842801df77f4a83b192d60341bae27b8aa2f1dcf",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59432,7 +59432,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "284e05a1c34471cc16c629316bb6229804ffacb776a692c5d7068309f9962f3a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59482,7 +59482,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b139f333689af9e153ededc32c3636641251527c60effd079fbdb74816ed5dc4",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59532,7 +59532,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b4d33eda3228456bff34a53f1e17ff68166e34131e198f3bc871d66a770443cf",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59582,7 +59582,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "db89905877132c5a1e32f301bac73d0a62158c16458738a6e9b7b7d47c2d6908",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59632,7 +59632,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "2ac8b184f2a7ff1080180ee8cb73ee1b3b5a8d81cebfb1f797411ccfc5d1d5e3",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59682,7 +59682,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "20ac2c3906070631f01a590ac02c1064e47ec082f7a5ab8a23d76c1d32015190",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59732,7 +59732,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "c2ace083162a269c500d71f45a745a265a4af4fa335a7ae0334776b9db73c11e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59784,7 +59784,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f0c7dc552ad5fc2935c3cfff40faf2944b7303b29a0f3b4d6c0e142acd70432e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59836,7 +59836,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f51dff5be2411648db5d8fae18d62602b7cc4a814552c2c23899f454097e6a81",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59886,7 +59886,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ef71262762f2ac985e71e49e4c63df16513b1168979d8350f60010d854a127aa",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59936,7 +59936,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "359c041bf1b9156b180e4b02eeed56e68779ff0ec812910121eae3cb498d51af",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -59986,7 +59986,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5f31acd8a701f5219ccc28b8298f25900201c9c2f03b3c2924bcc19c29b5d764",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60036,7 +60036,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e1129e80a726ef13e988005f6eb536febe851d6b566236bc498e42164a40c204",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60086,7 +60086,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "9c82c3a751aa7397d5c5a515186919dd19c2487e4b93bfaa888dd40f4c434efb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60136,7 +60136,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5534626d520bcbe6ba084b2146a37d8e1b4a3d5a856c5c05ac9da4719b833c8f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60186,7 +60186,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e255a3d6edd04928769eb5e48053cb2e9e99eb4ee068c8bb732c72efc9ccdb1f",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60236,7 +60236,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "defd86a46f9b76df679e682dae382edec523f9eab737d7885c0c10a849303751",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60286,7 +60286,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "97cc29d6b1adb093a635876e8dd7c958a1b77e5e39d28211591fad29d36c6add",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60336,7 +60336,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "efe055a46f3875841a1bf5a4a0fb9e02216ca2221ac1dc558a0dc5fd69798f08",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60386,7 +60386,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "565c5431aa610e3047326ba2af08d7d9d95cb31653ba5fc3ca89d398d453c28d",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60436,7 +60436,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "187a903bbb7553a516fd6a45cb4185c3b6f4a7b142f0bd5fb05d953fd1137cf1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60486,7 +60486,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "3f59c3f6c32baa65ac5d09ad175abe1da38e1da630f415e4a766160a02850ca9",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60536,7 +60536,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8a6a648ceaddc2a84eee4fb902ea9c0da9adc2fd171dc64cac02ba5ceb047341",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60586,7 +60586,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "96d4682c0258a7f2c269490990b69700e2bbe451ddac67dac4c5c85c75ae4502",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60636,7 +60636,7 @@
       "half_marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "d21996993ba1267ff988eb34f31bf742ef7f7e62a0f3cdd2a86c4d4322828ade",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60686,7 +60686,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "b12068c96682a39b20dbe93ba1eed090bdc78eb1eece49ea14c29cd8f11a4863",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60736,7 +60736,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8fd695f0a34f75a69ea965a9c91631047d5f2d5e4e917f4c908b2edf5e7c1abd",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60786,7 +60786,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "566b0e2f3832619dd216cbbc38e350042c19169edc5dc20e6d01f764b483d9d5",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60836,7 +60836,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "99fdf8e0c4f16cf4cb58131ba0df4c871f115e9f115729530a733c7bbd9819bb",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60886,7 +60886,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "fdc7e2a5424c855690fffa2de7a2a7f4ea501107a786f1afb13d41ee1c9b9444",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60936,7 +60936,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "f04e5ce935f061c8e5e9161388a5f02da6955d1d8bda0fa43c782f55bdc4cdb0",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -60986,7 +60986,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "6e06c8ed220e13f86302e12b1fc31af5084dccfe32d9ec09f57e506fc8af749c",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61036,7 +61036,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "ba95cc9aa75414efd9c28d119cec7e5ba1c7d295b8cd8a8419a1e3274be349bf",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61086,7 +61086,7 @@
       "10k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "7253145edbad18329a4cfeb965b0586dfa51d343b42cb1d8ec00e139d19085e7",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61136,7 +61136,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "e61d14cd2c6dc26cea9f1751bf269f64d837f82f1d7250bf54deab603b9dddd4",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61186,7 +61186,7 @@
       "5k"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "352eb3afdfdc16cb72111ac18f206eda77051b483892f6af493602bd4c80689e",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61236,7 +61236,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "77ab517c7ef6a79c62766cbb5901656306ed2142c0f040e7fe79dd9e7dd9133a",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61286,7 +61286,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "8f8845de3c9e3da7212957b62fb99d6588c73053df346f6d4e7ebe0aaa75ca74",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61336,7 +61336,7 @@
       "mile"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "26490a85fc827695b13903a6e165f79b1aa2c8d7e90ff576e96d0cd20d4d4122",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61386,7 +61386,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "24cf37163aef65a69a5b8ec59caace6e2a6e6a41a8c580120bb6191db2e81bff",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61436,7 +61436,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "abefa4c5dcedbeefda0198f0e84dfd6d360ab6422bf142b42394d7ef231cabf1",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61486,7 +61486,7 @@
       "marathon"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "5433fb9e6403af0feebd5f05657cf9d5122c171ca17e08f68ae8981631cacf78",
     "source_name": "world_athletics",
     "source_publication_date": null,
@@ -61536,7 +61536,7 @@
       "road_race"
     ],
     "source_document": "https://worldathletics.org/competitions/world-athletics-label-road-races",
-    "source_document_checksum": "af3470ebd51ccb873ddfa9f70745bde04af89a54e5d3934b6ad31958954e4e0d",
+    "source_document_checksum": "3a9306a394522dad2713e8b9cc3a44c56e4ecb50fac35896d7d2c392f5f7a2cf",
     "source_hash": "1352ce187222d74c250dec6154e1f70b93a47760eb5a82433c797d7cb9789211",
     "source_name": "world_athletics",
     "source_publication_date": null,
